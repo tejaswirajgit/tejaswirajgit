@@ -20,8 +20,8 @@ I'm an **AI Engineer** with a strong focus on building production-grade intellig
 Currently serving as **Founding AI Engineer at [Node2.io](https://node2.io)**, where I lead the design and development of core AI systems and product architecture. I thrive at the intersection of research and engineering — taking ideas from concept to scalable deployment.
 
 - 🏗️ **Building** — An AI-native management system focused on automation, intelligent support, and real-world operational efficiency
-- 🤝 **Open to collaborating on** — AI startups, LLM-powered applications, and high-impact real-world systems
 - 📖 **Currently deepening expertise in** — Advanced LLM architectures, agentic AI systems, and distributed AI engineering
+- 🤝 **Open to collaborating on** — AI startups, LLM-powered applications, and high-impact real-world systems
 - 💡 **Ask me about** — AI engineering, system design, and taking products from idea → production
 
 ---
