@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswi-raj-729a18231)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswirajmgr@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%234F8EF7?style=for-the-badge&logo=githubpages&logoColor=white)](https://tejaswirajgit.github.io/protfolio/)
 [![Profile Views](https://komarev.com/ghpvc/?username=tejaswirajgit&style=for-the-badge&color=4F8EF7&label=PROFILE+VIEWS)](https://github.com/tejaswirajgit)
 
 </div>
@@ -77,6 +78,7 @@ Currently serving as **Founding AI Engineer at [Node2.io](https://node2.io)**, w
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=tejaswirajgit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswirajgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
@@ -88,6 +90,11 @@ Currently serving as **Founding AI Engineer at [Node2.io](https://node2.io)**, w
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaswirajgit&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
