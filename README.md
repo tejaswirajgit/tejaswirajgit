@@ -74,12 +74,12 @@ Currently serving as **Founding AI Engineer at [Node2.io](https://node2.io)**, w
 
 ---
 
-## GitHub Stats
-
 <div align="center">
 
+## GitHub Stats
+
 <a href="https://github.com/tejaswirajgit">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejaswirajgit&theme=tokyonight&hide_border=true" height="200" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejaswirajgit&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 
 </div>
