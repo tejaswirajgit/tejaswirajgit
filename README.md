@@ -78,9 +78,23 @@ Currently serving as **Founding AI Engineer at [Node2.io](https://node2.io)**, w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswirajgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages"/>
+<a href="https://github.com/tejaswirajgit">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswirajgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180" alt="Top Languages"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tejaswirajgit&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+<a href="https://github.com/tejaswirajgit">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejaswirajgit&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### Trophies
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=tejaswirajgit&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
