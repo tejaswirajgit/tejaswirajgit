@@ -15,14 +15,12 @@
 
 ## About Me
 
-I'm an **AI Engineer** with a strong focus on building production-grade intelligent systems — from LLM-powered applications to agentic pipelines and operational automation platforms.
+Hey, I'm Tejaswi. I build AI systems that go from idea to production. I'm currently the Founding AI Engineer at **[Node2.io](https://node2.io)**, leading the AI side end-to-end, from architecture to deployment.
 
-Currently serving as **Founding AI Engineer at [Node2.io](https://node2.io)**, where I lead the design and development of core AI systems and product architecture. I thrive at the intersection of research and engineering — taking ideas from concept to scalable deployment.
-
-- 🏗️ **Building** — An AI-native management system focused on automation, intelligent support, and real-world operational efficiency
-- 📖 **Currently deepening expertise in** — Advanced LLM architectures, agentic AI systems, and distributed AI engineering
-- 🤝 **Open to collaborating on** — AI startups, LLM-powered applications, and high-impact real-world systems
-- 💡 **Ask me about** — AI engineering, system design, and taking products from idea → production
+- 🏗️ Building an AI-driven management system, currently focused on automation and intelligent support, with the goal of plugging it into real-world workflows
+- 📖 Learning more about LLM applications, agentic systems, and how to take AI from a notebook to something people actually use
+- 🤝 Open to collaborating on early-stage AI projects, computer vision work, or anything where AI meets a real problem
+- 💡 Ask me about deep learning, building with LLMs, or just figuring things out as you go
 
 ---
 
