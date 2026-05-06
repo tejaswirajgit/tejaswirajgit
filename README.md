@@ -78,7 +78,7 @@ Currently serving as **Founding AI Engineer at [Node2.io](https://node2.io)**, w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswirajgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswirajgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=tejaswirajgit&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
