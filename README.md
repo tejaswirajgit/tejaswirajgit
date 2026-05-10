@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswi-raj-729a18231)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswirajmgr@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%234F8EF7?style=for-the-badge&logo=githubpages&logoColor=white)](https://tejaswirajgit.github.io/protfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%234F8EF7?style=for-the-badge&logo=githubpages&logoColor=white)](https://tejaswirajgit.github.io/portfolio-tejaswi-raj/)
 [![Profile Views](https://komarev.com/ghpvc/?username=tejaswirajgit&style=for-the-badge&color=4F8EF7&label=PROFILE+VIEWS)](https://github.com/tejaswirajgit)
 
 </div>
