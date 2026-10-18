@@ -4,9 +4,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswi-raj-729a18231)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tejaswiraj.com-%234F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tejaswiraj.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswi-raj-/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswirajmgr@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%234F8EF7?style=for-the-badge&logo=githubpages&logoColor=white)](https://tejaswirajgit.github.io/portfolio-tejaswi-raj/)
 [![Profile Views](https://komarev.com/ghpvc/?username=tejaswirajgit&style=for-the-badge&color=4F8EF7&label=PROFILE+VIEWS)](https://github.com/tejaswirajgit)
 
 </div>
@@ -15,9 +15,10 @@
 
 ## About Me
 
-Hey, I'm Tejaswi. I build AI systems that go from idea to production. I'm currently the AI Engineer at **[Node2.io](https://node2.io)**, leading the AI side end-to-end, from architecture to deployment.
+Hey, I'm Tejaswi. I build AI systems that go from idea to production. I'm currently the AI Engineer at **[Node2.io](https://www.node2.io)**, leading the AI side end-to-end, from architecture to deployment.
 
 - 🏗️ Building an AI-driven management system, currently focused on automation and intelligent support, to plug it into real-world workflows
+- 🔬 Previously ML Research Intern at **DRDO** (landslide detection with Sentinel-2) and **IIT Mandi**, with **2 IEEE publications**
 - 📖 Learning more about LLM applications, agentic systems, and how to take AI from a notebook to something people actually use
 - 🤝 Open to collaborating on early-stage AI projects, computer vision work, or anything where AI meets a real problem
 - 💡 Ask me about deep learning, building with LLMs, or just figuring things out as you go
